@@ -67,9 +67,11 @@ width="100" height="100">
 width="100" height="100">
 </a>
 <h3 align="left">Certificate:</h3>
-<a href="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P">
-<rect xmlns="http://www.w3.org/2000/svg" width="109" height="28" fill="#039be5"/>
+<a href="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" width="109" height="28" role="img" aria-label="FIREBASE">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109" height="28" role="img" aria-label="FIREBASE"><g shape-rendering="crispEdges"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98.5" height="28" role="img" aria-label="UBUNTU"><title>UBUNTU</title><g shape-rendering="crispEdges"><rect width="98.5" height="28" fill="#e95420"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="592.5" y="175" textLength="545" fill="#fff" font-weight="bold">Certificate</text></g></svg></g></svg>  </svg>
 </a>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gautamsinghbadwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gautamsinghbadwal" /></a></p><br><br>
