@@ -24,4 +24,6 @@
 <p><a href="https://www.buymeacoffee.com/gautamsinghbadwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gautamsinghbadwal" /></a></p><br><br>
 <p <img src="https://komarev.com/ghpvc/?username=gautamsinghbadwal&label=Profile%20views&color=0e75b6&style=flat" alt="gautamsinghbadwal" /> </p>
 
+[![An image of @gautamsinghbadwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gautamsinghbadwal)](https://holopin.io/@gautamsinghbadwal)
+
 
