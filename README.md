@@ -66,49 +66,9 @@ width="100" height="100">
   <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate"
 width="100" height="100">
 </a>
-<h3 align="left">Certf:</h3>
-.certificate-button {
-      display: inline-block;
-      padding: 10px 20px;
-      text-decoration: none;
-      background-color: #ffc107;
-      color: #fff;
-      font-family: Arial, sans-serif;
-      font-size: 16px;
-      border-radius: 5px;
-      border: none;
-      transition: background-color 0.3s ease;
-      box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
-      position: relative;
-      overflow: hidden;
-    }
-
-    /* Hover effect */
-    .certificate-button:hover {
-      background-color: #ff9800;
-    }
-
-    /* Cute effect */
-    .certificate-button::before {
-      content: '';
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      width: 300%;
-      height: 300%;
-      background: rgba(255, 255, 255, 0.1);
-      transition: all 0.6s ease;
-      border-radius: 50%;
-      z-index: -1;
-      transform: translate(-50%, -50%);
-    }
-
-    .certificate-button:hover::before {
-      width: 0;
-      height: 0;
-    }
-  <a href="#" class="certificate-button">Get Certificate</a>
-
-
+<h3 align="left">Certificate:</h3>
+<a href="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P">
+  <i class="fa fa-certificate" aria-hidden="true"></i>
+</a>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gautamsinghbadwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gautamsinghbadwal" /></a></p><br><br>
