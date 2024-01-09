@@ -60,5 +60,5 @@
 <p <img src="https://komarev.com/ghpvc/?username=gautamsinghbadwal&label=Profile%20views&color=0e75b6&style=flat" alt="gautamsinghbadwal" /> </p>
 
 <p align="center" dir="auto">
-<a href="https://www.credly.com/badges/43dfa67a-d420-4a18-8959-1df257330546?source=linked_in_profile" rel="nofollow"><img alt="Azure Ai Fundamentals Microsoft" src="https://camo.githubusercontent.com/8a76bf96f4c02f6990b5f38a43096e06e2215a9320fdbca8c441d415e3db94e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41575320436c6f75642050726163746974696f6e6572204365727469666965642d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" data-canonical-src="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P" style="max-width: 100%;"></a>
+<a href="https://www.credly.com/badges/43dfa67a-d420-4a18-8959-1df257330546?source=linked_in_profile" rel="nofollow"><img alt="" src="Azure Ai Fundamentals Microsoft" data-canonical-src="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P" style="max-width: 100%;"></a>
 
