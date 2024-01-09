@@ -55,7 +55,16 @@
  </p>
 <h3 align="left">Badge:</h3>
 <a href="https://www.credly.com/badges/e6cf63f0-cf1d-49e6-b1f8-03e68f98095d/public_url">
-  <img src="https://images.credly.com/size/680x680/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration">
+  <img src="https://images.credly.com/size/680x680/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration"
+width="100" height="100">
+</a>
+<a href="https://www.credly.com/badges/ca3f43f9-7c02-435d-899d-f86b38b7a7f3/public_url">
+  <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity"
+width="100" height="100">
+</a>
+<a href="https://www.credly.com/badges/2c9a5c6c-3ded-402a-a597-8e899c00077e/public_url">
+  <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate"
+width="100" height="100">
 </a>
 
 <h3 align="left">Support:</h3>
