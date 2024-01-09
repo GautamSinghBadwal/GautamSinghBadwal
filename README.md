@@ -54,6 +54,9 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/908648833fa38491a91057f717f81822b0b8f51979d37481460f5ac479e3fe3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365"><img alt="Firebase" src="https://camo.githubusercontent.com/908648833fa38491a91057f717f81822b0b8f51979d37481460f5ac479e3fe3e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365" data-canonical-src="https://img.shields.io/badge/firebase-%23039BE5.svg?&amp;style=for-the-badge&amp;logo=firebase" style="max-width: 100%;"></a>
  </p>
 <h3 align="left">Badge:</h3>
-<img alt="https://images.credly.com/size/680x680/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" scr="https://www.credly.com/badges/e6cf63f0-cf1d-49e6-b1f8-03e68f98095d/public_url"
+<a href="https://www.credly.com/badges/e6cf63f0-cf1d-49e6-b1f8-03e68f98095d/public_url">
+  <img src="https://images.credly.com/size/680x680/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration">
+</a>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gautamsinghbadwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gautamsinghbadwal" /></a></p><br><br>
