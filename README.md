@@ -68,7 +68,11 @@ width="100" height="100">
 </a>
 <h3 align="left">Certificate:</h3>
 <a href="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P">
-  <i class="fa fa-certificate" aria-hidden="true"></i>
+  <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" width="126.5" height="28">
+    <rect width="126.5" height="28" fill="#007acc"/>
+  </svg>
 </a>
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gautamsinghbadwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/gautamsinghbadwal" /></a></p><br><br>
