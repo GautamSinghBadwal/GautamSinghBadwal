@@ -67,23 +67,10 @@ width="100" height="100">
 width="100" height="100">
 </a>
 <h3 align="left">Certificate:</h3>
-<a href="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="109" height="28" role="img" aria-label="FIREBASE">
-    <g shape-rendering="crispEdges">
-      <!-- Your inner SVG content here -->
-      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98.5" height="28" role="img" aria-label="UBUNTU">
-        <title>UBUNTU</title>
-        <g shape-rendering="crispEdges">
-          <rect width="98.5" height="28" fill="#e95420"/>
-        </g>
-        <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-          <text transform="scale(.1)" x="592.5" y="175" textLength="545" fill="#fff" font-weight="bold">Certificate</text>
-        </g>
-      </svg>
-      <!-- End of inner SVG content -->
-    </g>
-  </svg>
+<a href="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P">
+  <img src="https://mailmeteor.com/logos/assets/PNG/Google_Drive_Logo_512px.png"width="100" height="100">
 </a>
+
 
 
 
