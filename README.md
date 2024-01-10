@@ -65,6 +65,9 @@ width="100" height="100">
 <a href="https://www.credly.com/badges/2c9a5c6c-3ded-402a-a597-8e899c00077e/public_url">
   <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate"
 width="100" height="100">
+</a><a href="https://skillshop.credential.net/f023e4ee-582a-47a1-b0fc-077952d6a0cb">
+  <img src="https://templates.images.credential.net/16722171176440784346699372916351.png" alt="Google Analytics"
+width="100" height="100">
 </a>
 <h3 align="left">Certificate:</h3>
 <a href="https://drive.google.com/drive/folders/1A4TRfnvl-rVIOTQJdIPattAVVAjvK78P">
