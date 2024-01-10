@@ -80,7 +80,13 @@ width="100" height="100">
   <img src="https://mailmeteor.com/logos/assets/PNG/Google_Drive_Logo_512px.png"width="100" height="100">
 </a>
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 <h3 align="left">Support:</h3>
