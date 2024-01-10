@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gautam+Singh+Badwal;Love+Code;And+Making;Website+App+Game+Development;Ethical+Hacking;Or+More" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gautam+Singh+Badwal;Love+Code;And+Making;Website+App+Game;Ethical+Hacking;Or+More" />
 </h1>
 
 <h3 align="center">A software developer from INDIA in</h3>
