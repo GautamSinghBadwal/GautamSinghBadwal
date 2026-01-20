@@ -24,6 +24,10 @@
 </p>
 
 <h3 align="left">Badge:</h3>
+<a href="https://www.credly.com/badges/edd64c33-db13-4a3b-833a-34b4247486d5">
+  <img src="https://images.credly.com/images/62db59ef-19f9-4652-a00c-7582baee8177/blob" alt="Networking Devices and Initial Configuration"
+width="100" height="100">
+</a>
 <a href="https://www.credly.com/badges/e6cf63f0-cf1d-49e6-b1f8-03e68f98095d/public_url">
   <img src="https://images.credly.com/size/680x680/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration"
 width="100" height="100">
