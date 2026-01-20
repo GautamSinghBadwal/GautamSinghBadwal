@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/gautamsinghbadwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam-singh-badwal" height="30" width="40" /></a>
 <a href="https://instagram.com/gautambadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautambadwal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/newgamewithap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="newgamewithap" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/gautambadwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="newgamewithap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Badge:</h3>
